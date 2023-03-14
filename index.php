@@ -22,7 +22,7 @@
 
     $table = array(
         array(
-            'Name'    => 'Trixie',
+            'Name'    => 'Trikse',
             'Color'   => 'Green',
             'Element' => 'Earth',
             'Likes'   => 'Flowers'
